@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/layout-for-amocrm/static/css/main.e73a993d.css",
+    "main.js": "/layout-for-amocrm/static/js/main.169ffbe5.js",
+    "static/media/avatar.png": "/layout-for-amocrm/static/media/avatar.44819e7434fd2137b934.png",
+    "static/media/partner3.png": "/layout-for-amocrm/static/media/partner3.54b4e04a27f7dbf6974f.png",
+    "static/media/partner1.png": "/layout-for-amocrm/static/media/partner1.b3235ec0b2a51a3c8a8a.png",
+    "static/media/partner5.png": "/layout-for-amocrm/static/media/partner5.229fbd3a710052936e54.png",
+    "static/media/partner4.png": "/layout-for-amocrm/static/media/partner4.d7c3c46f65715bf2cb50.png",
+    "static/media/logo.svg": "/layout-for-amocrm/static/media/logo.9a78f4f1abdeb4cd2634e903c8e5dc3c.svg",
+    "index.html": "/layout-for-amocrm/index.html",
+    "main.e73a993d.css.map": "/layout-for-amocrm/static/css/main.e73a993d.css.map",
+    "main.169ffbe5.js.map": "/layout-for-amocrm/static/js/main.169ffbe5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e73a993d.css",
+    "static/js/main.169ffbe5.js"
+  ]
+}
